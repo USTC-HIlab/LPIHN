@@ -1,0 +1,8 @@
+lncRNA-protein interaction data is downloaded form NPinter2.0 database
+
+firstly run a1_lanbuda_yita_5_back_3_exp_random_walk.m
+
+tnen    run a1_lanbuda_yita_5_back_3_exp_cross_validation.m
+
+"Predicting Long Noncoding RNA and Protein Interactions Using Heterogeneous Network Model" can be downloaded from internet for reference if you want to kown  more details of the method 
+
